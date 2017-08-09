@@ -1,0 +1,74 @@
+TASK com.falconnect.dealermanagementsystem id=56
+  ACTIVITY com.falconnect.dealermanagementsystem/.DashBoard 41cf6ce0 pid=25268
+    Local FragmentActivity 41c463e8 State:
+      mCreated=truemResumed=false mStopped=true mReallyStopped=true
+      mLoadersStarted=true
+    FragmentManager misc state:
+      mHost=android.support.v4.app.FragmentActivity$HostCallbacks@41c31680
+      mContainer=android.support.v4.app.FragmentActivity$HostCallbacks@41c31680
+      mCurState=2 mStateSaved=true mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{424eec38 V.E..... ... 0,0-0,0}
+        com.navdrawer.SimpleSideDrawer{426c20e8 V.E..... ... 0,0-0,0}
+          com.navdrawer.SimpleSideDrawer$BehindLinearLayout{426c3188 V.E..... ... 0,0-0,0}
+            com.navdrawer.SimpleSideDrawer$BehindLinearLayout{426c34e8 V.E..... ... 0,0-0,0}
+              android.widget.LinearLayout{426c4f40 V.E..... ... 0,0-0,0}
+                android.widget.LinearLayout{426c63f8 V.E..... ... 0,0-0,0}
+                  android.widget.RelativeLayout{41c316b8 V.E..... ... 0,0-0,0}
+                    com.falconnect.dealermanagementsystem.FontAdapter.CustomTextView{42500430 V.ED.... ... 0,0-0,0 #7f0d00b7 app:id/profile_name}
+                    com.falconnect.dealermanagementsystem.FontAdapter.CustomTextView{4250cbb0 V.ED.... ... 0,0-0,0 #7f0d00b9 app:id/profile_address}
+                    android.widget.ImageView{41c33548 V.ED.... ... 0,0-0,0 #7f0d00b8 app:id/profile_avatar}
+                  android.view.View{4251ee78 V.ED.... ... 0,0-0,0 #7f0d0088 app:id/view}
+                  android.widget.ListView{424f3418 VFED.VC. F.. 0,0-0,0 #7f0d00ba app:id/nav_list_view}
+            android.view.View{426c3800 V.ED.... ... 0,0-0,0}
+            com.navdrawer.SimpleSideDrawer$BehindLinearLayout{426c39f8 V.E..... ... 0,0-0,0}
+              android.widget.LinearLayout{41c33b20 V.E..... ... 0,0-0,0}
+                android.widget.LinearLayout{424f4820 V.E..... ... 0,0-0,0}
+                  android.widget.RelativeLayout{424e80e8 V.E..... ... 0,0-0,0 #7f0d00bb app:id/bt_layout}
+                    com.falconnect.dealermanagementsystem.FontAdapter.ButtonPlus{4251b588 VFED..C. ... 0,0-0,0 #7f0d00bd app:id/alert_btn}
+                    com.falconnect.dealermanagementsystem.FontAdapter.ButtonPlus{42620500 VFED..C. ... 0,0-0,0 #7f0d00be app:id/alert1_btn}
+                  android.widget.ListView{424f3920 V.ED.VC. ... 0,0-0,0 #7f0d00ba app:id/nav_list_view}
+          android.widget.FrameLayout{426c3dc8 V.E..... ... 0,0-0,0}
+            android.widget.LinearLayout{424f0628 V.E..... ... 0,0-0,0}
+              android.view.ViewStub{424f4198 G.E..... ... 0,0-0,0 #1020319}
+              android.widget.FrameLayout{424f43a8 V.E..... ... 0,0-0,0}
+                android.support.v7.widget.ActionBarOverlayLayout{424f7a28 V.ED.... ... 0,0-0,0 #7f0d005c app:id/decor_content_parent}
+                  android.support.v7.widget.ContentFrameLayout{424f9eb0 V.ED.... ... 0,0-0,0 #1020002 android:id/content}
+                    android.widget.RelativeLayout{425218a0 V.E..... ... 0,0-0,0}
+                      android.widget.RelativeLayout{42523908 V.E..... ... 0,0-0,0 #7f0d006d app:id/header_search_list}
+                        android.support.v7.widget.AppCompatImageView{42525ea8 V.ED..C. ... 0,0-0,0 #7f0d00e4 app:id/nav_icon_drawer}
+                        com.falconnect.dealermanagementsystem.FontAdapter.CustomTextView{425f1dd0 V.ED.... ... 0,0-0,0 #7f0d00e5 app:id/customTextView3}
+                        android.support.v7.widget.AppCompatImageView{425f5e08 V.ED..C. ... 0,0-0,0 #7f0d00e6 app:id/nav_refresh_icon}
+                        android.support.v7.widget.AppCompatImageView{42600c18 V.ED..C. ... 0,0-0,0 #7f0d00e7 app:id/nav_alert_icon}
+                      android.widget.ScrollView{42616f78 VFED.V.. ... 0,0-0,0}
+                        android.widget.LinearLayout{42619670 V.E..... ... 0,0-0,0}
+                          android.widget.LinearLayout{4261ae40 V.E..... ... 0,0-0,0}
+                            android.widget.FrameLayout{4261c668 V.E..... ... 0,0-0,0}
+                              android.widget.LinearLayout{4261dea0 V.E..... ... 0,0-0,0}
+                                android.support.v7.widget.CardView{42620ff8 V.E..... ... 0,0-0,0 #7f0d00e8 app:id/card_view}
+                                  android.widget.RelativeLayout{42624978 V.E..... ... 0,0-0,0}
+                                    android.view.View{426287e0 V.ED.... ... 0,0-0,0 #7f0d00d7 app:id/view1}
+                                    android.view.View{42629ae8 V.ED.... ... 0,0-0,0 #7f0d00db app:id/view2}
+                                    android.widget.RelativeLayout{4262add0 V.E..... ... 0,0-0,0 #7f0d00bb app:id/bt_layout}
+                                      com.falconnect.dealermanagementsystem.FontAdapter.ButtonPlus{4262ce20 VFED..C. ... 0,0-0,0 #7f0d00ea app:id/budget_model}
+                                      com.falconnect.dealermanagementsystem.FontAdapter.ButtonPlus{4262fff8 VFED..C. ... 0,0-0,0 #7f0d00eb app:id/by_model}
+                                    android.widget.FrameLayout{42632da8 V.E..... ... 0,0-0,0 #7f0d00ec app:id/first_frame}
+                                      android.support.v7.widget.AppCompatSpinner{426365e0 VFED..C. ... 0,0-0,0 #7f0d00ed app:id/budget_spinner}
+                                      android.support.v7.widget.AppCompatSpinner{42643f40 GFED..C. ... 0,0-0,0 #7f0d00ee app:id/brand_spinner}
+                                    android.view.View{42647688 V.ED.... ... 0,0-0,0 #7f0d00ef app:id/view5}
+                                    android.widget.FrameLayout{42648970 V.E..... ... 0,0-0,0 #7f0d00f0 app:id/second_frame}
+                                      android.support.v7.widget.AppCompatSpinner{4264a3a8 VFED..C. ... 0,0-0,0 #7f0d00f1 app:id/vehi_type}
+                                      android.support.v7.widget.AppCompatSpinner{4264dab0 GFED..C. ... 0,0-0,0 #7f0d00f2 app:id/model_spinner}
+                                    android.view.View{426511f8 V.ED.... ... 0,0-0,0 #7f0d009a app:id/view7}
+                                    com.falconnect.dealermanagementsystem.FontAdapter.ButtonPlus{426524e0 VFED..C. ... 0,0-0,0 #7f0d00f3 app:id/search_btn}
+                                    com.falconnect.dealermanagementsystem.FontAdapter.CustomTextView{42655148 V.ED..C. ... 0,0-0,0 #7f0d00e9 app:id/search_sites}
+                                    com.falconnect.dealermanagementsystem.FontAdapter.CustomTextView{42657cf0 V.ED.... ... 0,0-0,0 #7f0d00f4 app:id/customTextView}
+                                    com.falconnect.dealermanagementsystem.FontAdapter.CustomTextView{4265a8a0 V.ED..C. ... 0,0-0,0 #7f0d00bc app:id/search_city_spinner}
+                              android.support.v7.widget.AppCompatImageView{4265d508 V.ED.... ... 0,0-0,0}
+                      android.support.v7.widget.RecyclerView{426a59b8 VFED.... ... 0,0-0,0 #7f0d00f5 app:id/my_recycler_view}
+                  android.support.v7.widget.ActionBarContainer{424fc490 G.ED.... ... 0,0-0,0 #7f0d005d app:id/action_bar_container}
+                    android.support.v7.widget.Toolbar{424fda08 V.E..... ... 0,0-0,0 #7f0d005e app:id/action_bar}
+                      android.support.v7.widget.AppCompatTextView{4251bc58 V.ED.... ... 0,0-0,0}
+                      android.support.v7.widget.ActionMenuView{431beb48 V.E..... ... 0,0-0,0}
+                    android.support.v7.widget.ActionBarContextView{42514660 G.E..... ... 0,0-0,0 #7f0d005f app:id/action_context_bar}
+            com.navdrawer.SimpleSideDrawer$OverlayView{426c43d0 G.ED..C. ... 0,0-0,0}
